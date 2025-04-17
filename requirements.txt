@@ -1,0 +1,1 @@
+conda create -n "ggenai" python=3.12 ipython jupyter numpy pandas matplotlib pydantic pytest python-dotenv pandas-stubs types-requests types-python-dateutil google-genai chromadb langgraph langchain-google-genai langgraph-prebuilt ipython-sql sqlalchemy scikit-learn
